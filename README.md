@@ -15,6 +15,11 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%231572B6.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-%231572B6.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-%2343853D.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 ## 🏗️ Projects
 ### 🔹 **Extracurricular Projects**
@@ -22,7 +27,7 @@
   - Built a **scalable data pipeline** for real-time analytics
   - Designed an **interactive web dashboard** for data visualization
   
-- **Predictive Analysis using Time Series Forecasting** *(ARIMA, SARIMA, XGBoost, Random Forest, LSTM)*
+- **Predictive Time Series Analysis** *(ARIMA, SARIMA, XGBoost, Random Forest, LSTM)*
   - Developed models to forecast trends in **financial and business datasets**
   - Compared traditional and ML-based forecasting techniques
 
@@ -32,10 +37,3 @@
 
 - **MDP Value Iteration Algorithm** *(Markov Decision Processes, Python)*
   - Developed an **optimal policy finder** for decision-making in stochastic environments
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
