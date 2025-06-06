@@ -20,7 +20,7 @@
 
  - **Java File Procesor** *(Java, Multithreading)*
 
- - **Client Server SMS APP** *(Java, Client/Server Architecture)*
+ - ** Echo Client-Server App** *(Java, Client/Server Architecture)*
 
 - **RPN Calculator** *(Haskell, Stack-based Interpreter)*
 
