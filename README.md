@@ -13,7 +13,7 @@
   - Developed a **full-stack fitness tracking web app** integrating real-world data via the **Garmin API**.  
   - Implemented a responsive **React SPA frontend** with a **Spring Boot backend**, deployed on **Vercel** and **Render**.
   
-- **Predictive Time Series Analysis** *(ARIMA, SARIMA, XGBoost, Random Forest, LSTM)*
+- **Predictive Time Series Analysis** *(ARIMA, SARIMA, XGBoost, Random Forest, LSTM, Bayesian Optimisation)*
   - Developed models to forecast trends in **financial and business datasets**
   - Compared traditional and ML-based forecasting techniques
 
