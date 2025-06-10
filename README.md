@@ -1,6 +1,8 @@
 # Will Barnard | Computer Science & Mathematics |  University of Bath 
 
-## Languages: Python, Java, Haskell, R
+## Languages: Python, Java, SQL, Haskell, R
+## Developer Tools: Git, Docker
+## Libaries/Frameworks: Spring Boot, ReactJS, PostgreSQL, MongoDB, Flask 
 
 ## Extracurricular Projects
 - **Data Processing Pipeline & Web Dashboard** *(PostgreSQL, Docker, Apache Airflow, React, Flask, Yahoo Finance API)*
