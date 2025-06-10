@@ -14,8 +14,8 @@
   - Implemented a responsive **React SPA frontend** with a **Spring Boot backend**, deployed on **Vercel** and **Render**.
   
 - **Predictive Time Series Analysis** *(ARIMA, SARIMA, XGBoost, Random Forest, LSTM, Bayesian Optimisation)*
-  - Developed models to forecast trends in **financial and business datasets**
-  - Compared traditional and ML-based forecasting techniques
+  - Built and optimized **time series models** to predict future sales using **statistical and ML techniques**.
+  - Created a **Streamlit dashboard** for sales forecasts and performed **SHAP-based analysis** to interpret key drivers behind the models.
 
 ## Curricular Projects
 - **Email Spam Filter** *(Python, Neural Networks)*
