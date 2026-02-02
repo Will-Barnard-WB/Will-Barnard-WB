@@ -6,12 +6,11 @@
 ### Developer Tools: Git, Docker, VS, VSCode, PyCharm, Intellij IDEA
 ### Libaries/Frameworks: Spring Boot, ReactJS, PostgreSQL, MongoDB, Flask 
 
-## AI Projects
+## AI/ML Projects
 - **RevisionAgent: AI-Powered Flashcard Generator** *(LangChain, OpenAI GPT-4, ChromaDB, LangSmith, AnkiConnect API)*
   - Built an **autonomous AI agent** using **RAG** and **tool-calling** to automatically generate high-quality Anki flashcards from academic PDF notes.
   - Implemented **LangSmith evaluation framework** with **LLM-as-a-judge** patterns to assess flashcard quality and integrated with **AnkiConnect API** for automated deck management.
 
-## ML Projects
 - **Real-Time Stock Data Pipeline & Dashboard** *(PostgreSQL, Docker, Apache Airflow, React, Flask, Yahoo Finance API)*
   - Developed a **scalable, automated data pipeline** that ingests and processes **real-time stock data** using **Airflow** and **PostgreSQL**.
   - Built a responsive, **containerized React dashboard** with a **Flask backend** to visualize live financial data.
